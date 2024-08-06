@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1721662488 source:c:\users\výctus\desktop\c projeler\newstart\main.c
+	<stdio.h>
+	<stdlib.h>
+	"basliklar.h"
+	"ekle.h"
+	"listele.h"
+	"ara.h"
+	"menu.h"
+
+1720701849 c:\users\výctus\desktop\c projeler\newstart\basliklar.h
+
+1720706192 c:\users\výctus\desktop\c projeler\newstart\ekle.h
+
+1721662438 c:\users\výctus\desktop\c projeler\newstart\listele.h
+
+1721662615 c:\users\výctus\desktop\c projeler\newstart\ara.h
+
+1720706221 c:\users\výctus\desktop\c projeler\newstart\menu.h
+
